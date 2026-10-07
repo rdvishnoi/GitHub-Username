@@ -30,7 +30,7 @@ A seasoned **Senior Software Quality Assurance & Automation Engineer** with **6.
 ---
 
 ### 📊 GitHub Analytics
-![GitHub Stats]-[github.com/rdvishnoi](https://github.com/rdvishnoi)
+**GitHub Stats:** [github.com/rdvishnoi](https://github.com/rdvishnoi)
 **Contributions:** [View Activity & Repositories](https://github.com)
 
 ---
