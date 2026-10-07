@@ -30,11 +30,14 @@ A seasoned **Senior Software Quality Assurance & Automation Engineer** with **6.
 ---
 
 ### 📊 GitHub Analytics
-![Ram's GitHub Stats](https://vercel.app)
+![Ram's GitHub Stats]-[github.com/rdvishnoi](https://github.com/rdvishnoi)
 ![Top Langs](https://vercel.app)
+- **Contributions:** [View Activity & Repositories](https://github.com)
+*Real-time coding and contribution insights:*
+[![Ram's GitHub Activity](https://vercel.app)](https://github.com)
 
 ---
 
 ### 🤝 Let's Connect!
-- **LinkedIn:** [://linkedin.com](https://www.://linkedin.com/in/ram-vishnoi-463b7188/)
+- **LinkedIn:** [https://www.linkedin.com/in/ram-vishnoi-463b7188/](https://www.linkedin.com/in/ram-vishnoi-463b7188/)
 - **Email:** ramdayalvishnoi363@gmail.com
