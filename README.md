@@ -31,9 +31,8 @@ A seasoned **Senior Software Quality Assurance & Automation Engineer** with **6.
 
 ### 📊 GitHub Analytics
 ![Ram's GitHub Stats]-[github.com/rdvishnoi](https://github.com/rdvishnoi)
-![Top Langs](https://vercel.app)
 - **Contributions:** [View Activity & Repositories](https://github.com)
-*Real-time coding and contribution insights:*
+- *Real-time coding and contribution insights:*
 [![Ram's GitHub Activity](https://vercel.app)](https://github.com)
 
 ---
