@@ -1,6 +1,6 @@
 # Hi there, I'm Ram Dayal Vishnoi (SDET / Hybrid QA Engineer)
 
-A seasoned **Senior Software Quality Assurance & Automation Engineer** with **6.1+ years of experience** in building scalable, production-grade automation frameworks and handling end-to-end manual and automated testing cycles. Expert in Agile environments, CI/CD integrations, and cross-platform validation.
+A seasoned **Senior Software Quality Assurance & Automation/Hybrid Engineer** with **6.1+ years of experience** in building scalable, production-grade automation frameworks and handling end-to-end manual and automated testing cycles. Expert in Agile environments, CI/CD integrations, and cross-platform validation.
 
 - **Current Role:** Software QA Automation/Hybrid Engineer at Mayowish
 - **Location:** Bengaluru, Karnataka, India
