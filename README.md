@@ -22,7 +22,7 @@ A seasoned **Senior Software Quality Assurance & Automation/Hybrid Engineer** wi
 
 ---
 
-### Key QA Highlights & Impact (6.1+ Years)
+### Key QA Highlights & Impact (6.2+ Years)
 - **45% Time Reduction:** Successfully automated regression test cases using Python + Playwright, dropping manual execution times drastically.
 - **30% Bug Reduction:** Implemented automated sanity checks in GitHub Actions CI/CD workflows, filtering out critical bugs before deployment.
 - **E-commerce & Web Expertise:** Handled transactional and checkout flow testing for complex multi-vendor platforms and customized business applications.
